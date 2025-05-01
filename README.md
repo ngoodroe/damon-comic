@@ -29,3 +29,5 @@ And so I did. I worked page-by-page. I thought I was going to watercolor every p
 I’m very proud of the book you are holding. I’ve loved every step I’ve taken to get where I am. I hope you will like it too.
 
 -Nathan
+
+![](page1web.png)
