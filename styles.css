@@ -1,0 +1,32 @@
+body {
+    background-color: #c0cfdc;
+    font-family: monospace;
+}
+
+.comic-spread {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+header {
+    background-color: #e6ae58;
+    border-radius: 8px;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    border: #8b6225 solid 1px
+}
+
+a, p {
+    font-size: 1rem;
+}
+
+img {
+    max-height: 96vh;
+    max-width: 96vw;
+    margin: 0;
+    pointer-events: none;
+    user-select: none;
+}
