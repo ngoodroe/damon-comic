@@ -30,4 +30,4 @@ I’m very proud of the book you are holding. I’ve loved every step I’ve tak
 
 -Nathan
 
-![](Page1web.png)
+
