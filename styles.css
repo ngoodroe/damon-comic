@@ -26,6 +26,8 @@ a, p {
 img {
     max-height: 96vh;
     max-width: 96vw;
+    width: auto;
+    height: auto;
     margin: 0;
     pointer-events: none;
     user-select: none;
